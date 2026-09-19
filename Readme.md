@@ -19,11 +19,3 @@
 10. Build your actual AI assistant
 
  
-
- 
-        
-                1. add real session time show on when i click on usuage.
-                2. token usugae seem like incoorecet? 
-                3. my voice response in ont apperin on message screen as streaming i want this .
-                4.  can video be resizable min / max adjutable size so that i put where i want   
-                 
